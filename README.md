@@ -1,6 +1,6 @@
 # Integrate Air Sensor and MangoH
 
-This project demonstrates how to integrate Air Sensor with mangOH
+This project provides API for Air Sensor.
 
 Hardware requirement:
 1. Grove-Laser_PM2.5_Sensor-HM3301: http://wiki.seeedstudio.com/Grove-Laser_PM2.5_Sensor-HM3301/
