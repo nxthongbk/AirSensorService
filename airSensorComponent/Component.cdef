@@ -1,0 +1,11 @@
+sources:
+{
+	airSensor.c
+}
+provides:
+{
+	api:
+	{
+		$CURDIR/../ma_airSensor.api
+	}
+}

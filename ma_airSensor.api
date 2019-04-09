@@ -1,0 +1,32 @@
+FUNCTION Init();
+
+
+FUNCTION le_result_t ReadIndustrialPM1_0
+(
+	uint16 value OUT 
+);
+
+FUNCTION le_result_t ReadIndustrialPM2_5
+(
+	uint16 value OUT 
+);
+
+FUNCTION le_result_t ReadIndustrialPM10
+(
+	uint16 value OUT 
+);
+
+FUNCTION le_result_t ReadEnvironmentPM1_0
+(
+	uint16 value OUT 
+);
+
+FUNCTION le_result_t ReadEnvironmentPM2_5
+(
+	uint16 value OUT 
+);
+
+FUNCTION le_result_t ReadEnvironmentPM10
+(
+	uint16 value OUT 
+);
